@@ -1,5 +1,7 @@
-![whoami StrandedDev](images/whoami.svg)
 
+<center>
+![whoami StrandedDev](images/whoami.svg)
+</center>
 
 
 <h1 align="center">Hi, I'm StrandedDev 🚀</h1>
