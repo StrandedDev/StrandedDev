@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @StrandedDev
-- This repository was made with love
+![whoami StrandedDev](images/whoami.svg)
