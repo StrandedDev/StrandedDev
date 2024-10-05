@@ -6,9 +6,16 @@
 
 <br>
 
-- I'm a self-taught passionate FrontEnd developer from Bangladesh 👨‍💻
-- I'm an web enthusiast and constant learner 🎓
-- I like to keep up with the flow of modern technology and staying updated 🦾
+👨‍💻 I'm a self-taught passionate FrontEnd developer from Bangladesh <br>
+🔭 I’m currently working on a school management backend and database integration <br>
+👯 I’m looking to collaborate on opensource projects <br>
+🌱 I’m currently learning [Go lang](https://www.go.dev/) <br>
+🎓 I'm an web enthusiast and constant learner <br>
+🦾 I like to keep up with the flow of modern technology and staying updated <br>
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=StrandedDev&icon=0&color=0)](https://www.github.com/StrandedDev/)
 
 
 <br> 
@@ -39,8 +46,11 @@
 
 <div align="center">
 
-|[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StrandedDev)](https://github.com/StrandedDev/github-readme-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrandedDev)|
+| [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StrandedDev&theme=dark)](https://github.com/StrandedDev/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrandedDev&theme=dark) |
 |:------:|:------:|
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=StrandedDev&theme=dark&hide_border=false)
+
 
 </div>
 
