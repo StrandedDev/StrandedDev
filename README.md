@@ -16,17 +16,45 @@
 <div align="center">
 
 | Category | Skills |
-|:-|:-|
-| Languages | [![My Skills](https://skillicons.dev/icons?i=py,go,js,html)](https://github.com/StrandedDev/) |
+|:------------:|:-|
+| Languages | [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,js,html,php,dart)](https://github.com/StrandedDev/) |
 | Styling | [![My Skills](https://skillicons.dev/icons?i=css,tailwind,bootstrap)](https://github.com/StrandedDev/) |
-| Frameworks | [![My Skills](https://skillicons.dev/icons?i=svelte,jquery)](https://github.com/StrandedDev/) |
-| Database | [![My Skills](https://skillicons.dev/icons?i=postgres,firebase)](https://github.com/StrandedDev/) |
-| Editors | [![My Skills](https://skillicons.dev/icons?i=vscode,sublime,pycharm,vim)](https://github.com/StrandedDev/) |
+| Frameworks | [![My Skills](https://skillicons.dev/icons?i=svelte,jquery,flutter)](https://github.com/StrandedDev/) |
+| Database | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://github.com/StrandedDev/) |
+| Editors | [![My Skills](https://skillicons.dev/icons?i=vscode,clion,pycharm,sublime,vim)](https://github.com/StrandedDev/) |
 | Environments | [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu)](https://github.com/StrandedDev/) |
-| Tools | [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://github.com/StrandedDev/) |
-| Online tools | [![My Skills](https://skillicons.dev/icons?i=replit,codepen,github)](https://github.com/StrandedDev/) |
+| Tools | [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,bash,obsidian)](https://github.com/StrandedDev/) |
+| Online tools | [![My Skills](https://skillicons.dev/icons?i=replit,codepen,git,github)](https://github.com/StrandedDev/) |
 
 </div>
+
+
+# Competitive Programming
+
+|   Judge    |                               Profile                                |  
+|:----------:|:--------------------------------------------------------------------:|
+| Codeforces | [View Profile &nearr;](https://codeforces.com/profile/stranded_dev)  |
+|   VJudge   |     [View Profile &nearr;](https://vjudge.net/user/strandedcrow)     |
+|  CodeChef  | [View Profile &nearr;](https://www.codechef.com/users/stranded_crow) |
+|  AtCoder   |    [View Profile &nearr;](https://atcoder.jp/users/stranded_dev)     |
+|  LightOJ   |    [View Profile &nearr;](https://lightoj.com/user/stranded_dev)     |
+|  Codewars  |  [View Profile &nearr;](https://www.codewars.com/users/StrandedDev)  |
+
+
+## Hacking Competitive Platforms
+
+| Platform  |                           Profile                            |
+|:---------:|:------------------------------------------------------------:|
+| TryHackMe | [View Profile &nearr;](https://tryhackme.com/p/StrandedCrow) |
+
+
+## CTFs
+
+|  Platform   | Solved |       Details        |
+|:-----------:|:------:|:--------------------:|
+| OverTheWire | **20** | Natas: 5, Bandit: 15 |
+
+
 
 
 
@@ -53,10 +81,8 @@
 # 📩 Contact me
 
 <div align="center">
-
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strandedcrow7@gmail.com) 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/StrandedDev) 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/_keith_flick_) 
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/StrandedDev)
 </div>
 
