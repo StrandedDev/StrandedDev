@@ -6,15 +6,6 @@
 
 <br>
 
-👨‍💻 I'm a self-taught passionate FrontEnd developer from Bangladesh <br>
-🔭 I’m currently working on a school management backend and database integration <br>
-👯 I’m looking to collaborate on opensource projects <br>
-🌱 I’m currently learning [Go lang](https://www.go.dev/) <br>
-🎓 I'm an web enthusiast and constant learner <br>
-🦾 I like to keep up with the flow of modern technology and staying updated <br>
-
-<br>
-
 [![](https://visitcount.itsvg.in/api?id=StrandedDev&icon=0&color=0)](https://www.github.com/StrandedDev/)
 
 
