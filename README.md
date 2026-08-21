@@ -65,10 +65,12 @@
 
 <div align="center">
 
-| [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StrandedDev&theme=dark)](https://github.com/StrandedDev/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrandedDev&theme=dark) |
-|:------:|:------:|
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrandedDev&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=StrandedDev&theme=dark&hide_border=false)
+![GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StrandedDev&theme=github_dark)
+![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StrandedDev&theme=github_dark)
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StrandedDev&theme=github-compact)
 
 
 </div>
@@ -78,12 +80,27 @@
 
 <br>
 
-# 📩 Contact me
+## Let's connect
 
 <div align="center">
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strandedcrow7@gmail.com) 
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/StrandedDev) 
-[![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/StrandedDev)
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="mailto:strandedcrow7@gmail.com"><img src="https://img.shields.io/badge/Email-strandedcrow7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email StrandedDev"></a><br>
+      <sub>For direct conversations</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/StrandedDev"><img src="https://img.shields.io/badge/GitHub-StrandedDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="StrandedDev on GitHub"></a><br>
+      <sub>Projects and open source</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.codewars.com/users/StrandedDev"><img src="https://img.shields.io/badge/Codewars-StrandedDev-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="StrandedDev on Codewars"></a><br>
+      <sub>Challenges and problem solving</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
