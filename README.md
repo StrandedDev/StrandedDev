@@ -3,6 +3,51 @@
   <img src="/images/whoami.svg" height="320" alt="Github whoami">
 </div>
 
+<div align="center">
+
+# StrandedDev
+
+### Software Developer | Competitive Programmer | Cybersecurity Enthusiast
+
+
+<br>
+
+
+  # *"The Error Changed, That Means Progress"* <br> - Myself
+
+<br>
+
+<div align="center">
+
+I enjoy turning complex problems into practical software through clean code,
+algorithmic thinking, and continuous experimentation. <br> My work spans application
+development, databases, Linux environments, and security-focused learning.
+
+<br>
+<br>
+
+<a href="https://github.com/StrandedDev?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore StrandedDev's projects"></a>
+<a href="mailto:strandedcrow7@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch with StrandedDev"></a>
+
+<br>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Building</strong><br>
+      Software projects and developer tools
+    </td>
+    <td align="center" width="33%">
+      <strong>Practicing</strong><br>
+      Algorithms, data structures, and problem solving
+    </td>
+    <td align="center" width="33%">
+      <strong>Exploring</strong><br>
+      Cybersecurity, Linux, and secure development
+    </td>
+  </tr>
+</table>
 
 <br>
 
